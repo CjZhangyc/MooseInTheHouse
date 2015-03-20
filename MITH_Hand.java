@@ -1,4 +1,4 @@
-public class Hand(){
+public class MITH_Hand(){
   
   
 }
