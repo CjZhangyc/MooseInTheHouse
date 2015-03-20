@@ -1,3 +1,4 @@
-public class hand(){
+public class Hand(){
+  
   
 }
