@@ -1,4 +1,7 @@
-class MITH_Player {
+public class MitH_Player {
+  // all methods
+  
+  
 
 
 }
